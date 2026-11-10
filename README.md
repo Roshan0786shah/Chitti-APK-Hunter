@@ -19,7 +19,7 @@ export PATH=$PATH:$(pwd)/jadx/bin
 
 
 
-git clone https://github.com/yourusername/Chitti-APK-Hunter.git
+git clone https://github.com/Roshan0786shah/Chitti-APK-Hunter.git
 cd Chitti-APK-Hunter
 chmod +x chitti_hunter.sh
 ./chitti_hunter.sh /path/to/target.apk
